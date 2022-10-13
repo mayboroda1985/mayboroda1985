@@ -1,8 +1,8 @@
 [![Header](https://github.com/mayboroda1985/mayboroda1985/blob/main/assets/header.png)](https://www.linkedin.com/in/anna-mayboroda-7025831a3/)
 
-## I'm a Software QA Engineer
-Software QA Automation Engineer with 5+ years of experience connected with UI testing web based applications.
-*Experienced in writing Testing checklists, Test plans, Traceability Matrix, Test cases and creat- ing Bug reports
+## I'm a Software QA Engineer with 5+ years of experience connected with UI testing web based applications.
+
+*Experienced in writing Testing checklists, Test plans, Traceability Matrix, Test cases and creat- ing Bug reports /n
 *Experienced in Smoke Testing, User Acceptance Testing,GUI, Functional Testing, Regression Testing, UAT, web browser compatibility testing.
 *Knowledge of Software Development Life Cycle (SDLC), Software Testing Life Cycle and Bug Life Cycle
 *Strong knowledge of bug reporting and tracking to resolve software issues
@@ -23,6 +23,8 @@ Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=47C5FB)
 
-###Follow Me
+### Follow Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/anna-mayboroda-7025831a3/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayboroda1985)](https://github.com/anuraghazra/github-readme-stats)
