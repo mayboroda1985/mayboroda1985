@@ -23,5 +23,6 @@ Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=47C5FB)
 
-Follow Me
+###Follow Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/anna-mayboroda-7025831a3/)
