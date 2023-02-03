@@ -1,28 +1,12 @@
 [![Header](https://github.com/mayboroda1985/mayboroda1985/blob/main/assets/header.png)](https://www.linkedin.com/in/anna-mayboroda-7025831a3/)
 
-## I'm a Software QA Engineer with 5+ years of experience connected with UI testing web based applications.
+## I am detail - oriented Software QA Engineer with 6+ years experience in Functional and Non - Functional testing for Web application. 
 
-*Experienced in writing Testing checklists, Test plans, Traceability Matrix, Test cases and creat- ing Bug reports
+Contribute to all aspects of the testing process: planning, creating test documentation, and performing testing. 
 
-*Experienced in Smoke Testing, User Acceptance Testing,GUI, Functional Testing, Regression Testing, UAT, web browser compatibility testing.
+Take ownership and deliver results for assigned tasks.Built trusted relationships with the Scrum team by catching issues at the early stage
 
-*Knowledge of Software Development Life Cycle (SDLC), Software Testing Life Cycle and Bug Life Cycle
-
-*Strong knowledge of bug reporting and tracking to resolve software issues
-
-*Create and maintain regression documents to aid the QA regression process
-
-*Good communication skills to interact with product owner, designer and developers to resolve technical issues, to meet the client requirements for a better-quality software product, and to re- port defects in Jira
-
-*Hands on experience in API testing REST API using Postman
-
-*Ability to handle in fast pace providing highest quality standards
-
-*Very good team player able to work independently in time sensitive environment
-
-*Experience working in Agile (Scrum) environment.
-
-*Desire to learn automation using approved tools as directed.
+Credo: Don’t stop until you’re proud
 
 *Languages: English,Ukrainian, Russian
 
